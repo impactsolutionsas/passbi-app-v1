@@ -1,0 +1,13 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.passbisn.sn",
+      "sha256_cert_fingerprints": [
+        "22:D0:84:AC:33:60:7F:70:75:48:04:9D:D8:EA:51:EA:15:B7:1F:3C:53:15:74:94:7E:F1:1E:A0:27:25:28:0B",
+        "A8:51:07:45:C1:0A:00:E4:9C:09:25:01:24:CF:36:AE:07:1C:67:D9:B7:C1:8E:F7:2D:77:F1:FE:50:BD:B6:43"
+      ]
+    }
+  }
+]
